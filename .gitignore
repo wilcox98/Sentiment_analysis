@@ -1,0 +1,14 @@
+.vscode
+docker*
+.metals
+__pycache__
+venv/
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
